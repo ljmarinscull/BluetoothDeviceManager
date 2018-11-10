@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BluetoothDeviceManager</string>
+    <string name="saved_devices_act_title">Dispositivos guardados</string>
+    <string name="empty_list">Lista de dispositivos bluetooth vacia!</string>
+    <string name="no_saved_devices">Lista de dispositivos guardados vacia!</string>
+    <string name="scanning">Buscando dispositivos</string>
+    <string name="download">Descargando dispositivos</string>
+    <string name="bluetooth_error_title">Error de Bluetooth</string>
+    <string name="bluetooth_error_msg">Este dispositivo no soporta la tecnología Bluetooth</string>
+    <string name="exit">Salir</string>
+    <string name="order">Ordenar</string>
+    <string name="update">Actualizar</string>
+    <string name="upload">Subiendo dispositivo</string>
+    <string name="order_type">Tipo de ordenamiento</string>
+    <string name="double_back_to_exit">Presione otra vez para salir.</string>
+    <string name="init_search">Comenzó la búsqueda!</string>
+    <string name="device_founded">Se encontró un dispositivo! >> </string>
+    <string name="search_finished">Finalizó la búsqueda!</string>
+    <string name="active_bluetooth">Active el Bluetooth por favor</string>
+    <string name="bluetooth_actived">Bluetooth activado!</string>
+    <string name="upload_device_error">Ha ocurrido un error al subir el dispositivo.</string>
+    <string name="wait_for_searching">Porfavor espere terminar la busqueda. Gracias!</string>
+    <string name="not_internet">NO tienes conexión a Internet. Porfavor revise su conexión.</string>
+    <string name="get_devices_error">Ha ocurrido un error al obtener los dispositivos guardados.</string>
+    <string name="asc">Ascendente</string>
+    <string name="desc">Descendente</string>
+</resources>
